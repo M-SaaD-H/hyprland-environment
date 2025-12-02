@@ -27,6 +27,30 @@ This repository automates the setup of a complete Hyprland environment, includin
 - Screenshot tools
 - And much more!
 
+## 🖼️ Showcase
+
+Here are some previews of the final Hyprland rice you’ll get with this setup:
+
+<table>
+  <tr>
+    <td>
+      <img src="assets/showcase/1.png" alt="Hyprland Showcase 1" width="350"/>
+    </td>
+    <td>
+      <img src="assets/showcase/2.png" alt="Hyprland Showcase 2" width="350"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="assets/showcase/3.png" alt="Hyprland Showcase 3" width="350"/>
+    </td>
+    <td>
+      <img src="assets/showcase/4.png" alt="Hyprland Showcase 4" width="350"/>
+    </td>
+  </tr>
+</table>
+
+
 ## ✨ Features
 
 ### Core Components
