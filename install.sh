@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # get the directory of the current script
-BASE_DIR=$(realpath "$(dirname "${BASH_SOURCE[0]}")/../")
+BASE_DIR=$(realpath "$(dirname "${BASH_SOURCE[0]}")")
 
 # source helper file
 source $BASE_DIR/scripts/helper.sh

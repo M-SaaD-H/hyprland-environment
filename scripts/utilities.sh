@@ -26,7 +26,7 @@ run_command "yay -S --sudoloop --noconfirm hyprlock" "Install Hyprlock - Screen 
 run_command "cp -r $BASE_DIR/configs/hypr/hyprlock.conf /home/$SUDO_USER/.config/hypr/" "Copy Hyprlock config" "yes" "no"
 
 run_command "yay -S --sudoloop --noconfirm wlogout" "Install Wlogout - Session Manager" "yes" "no"
-run_command "cp -r $BASE_DIR/configs/wlogout /home/$SUDO_USER/.config/ && cp -r $BASE_DIR/assets/wlogout /home/$SUDO_USER/.config/assets/" "Copy Wlogout config and assets" "yes" "no"
+run_command "cp -r $BASE_DIR/configs/wlogout /home/$SUDO_USER/.config/" "Copy Wlogout config and assets" "yes" "no"
 
 run_command "yay -S --sudoloop --noconfirm grimblast" "Install Grimblast - Screenshot tool" "yes" "no"
 
