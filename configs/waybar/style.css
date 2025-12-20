@@ -40,7 +40,7 @@ window#waybar {
 #window,
 #clock,
 #battery,
-#pulseaudio,
+#wireplumber,
 #network,
 #workspaces,
 #tray,
@@ -49,7 +49,7 @@ window#waybar {
 #backlight {
     background: #1e1e2e;
     padding: 0px 10px;
-    margin-top: 3px;
+    margin-top: 4px;
     /* border: 1px solid #181825; */
 }
 
@@ -80,13 +80,13 @@ window#waybar {
     border-radius: 10px 0px 0px 10px;
 }
 
-#pulseaudio {
+#wireplumber {
     color: #a6adc8;
     border-left: 0px;
     border-right: 0px;
 }
 
-#pulseaudio.microphone {
+#wireplumber.mic {
     color: #a6adc8;
     border-left: 0px;
     border-right: 0px;
